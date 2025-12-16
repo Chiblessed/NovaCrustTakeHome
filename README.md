@@ -1,9 +1,45 @@
+## Crypto Payment App UI
+This is a Next.js project for a Crypto Payment App UI, built purely for the frontend interface. Users can view addresses, send crypto, and track transactions (UI only).
+## Features
+
+Clean, responsive UI for crypto payments
+
+Pages for sending crypto, transaction confirmation, and details
+
+Mobile-first design
+
+Built with Next.js 16+ and TypeScript ready
+
+Uses TailwindCSS for styling
+
+ Note: This project is UI-only. No actual transactions are processed yet.
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Clone the repository
+```bash
+git clone https://github.com/Chiblessed/NovaCrustTakeHome.git
+```
 
-First, run the development server:
+Install dependencies
 
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
+
+
+Run the development server
 ```bash
 npm run dev
 # or
