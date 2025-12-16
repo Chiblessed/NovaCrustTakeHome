@@ -41,7 +41,6 @@ export default function Home() {
           </button>
         </div>
 
-        {/* Content Area */}
         <div className="px-14 pb-10 max-sm:px-3">
           {active === "crypto_to_cash" && <CryptoToCash />}
           {active === "cash_to_crypto" && (
